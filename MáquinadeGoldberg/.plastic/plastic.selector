@@ -1,0 +1,4 @@
+repository "MáquinadeGoldberg/MáquinadeGoldberg@4674163891724@cloud"
+  path "/"
+    br "/main"
+    co "/main"
